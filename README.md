@@ -19,6 +19,13 @@ jQuery Example Scripts
   <li>13-jQuery - Change Styles</li>
   <li>14-jQuery - Change Styles</li>
   <li>15-jQuery - If Statement</li>
+  <li>16-jQuery - Fading Content</li>
+  <li>17-jQuery - Fading Content</li>
+  <li>18-jQuery - Fading Content</li>
+  <li>19-jQuery - Fading Content</li>
+  <li>20-jQuery - Fading Content</li>
+  <li>21-jQuery - Fading Content</li>
+  <li>22-jQuery - Fading Content</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
 </ul>
