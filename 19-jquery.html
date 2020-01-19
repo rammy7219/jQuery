@@ -1,0 +1,31 @@
+<!doctype html>
+    <html>
+        <head>
+            <title>jQuery</title>
+
+            <meta charset="utf-8" />
+            <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <script type="text/javascript" src="jquery.min.js"></script> 
+            
+        </head>
+
+        <body>
+
+            <p>This is some text!</p>
+
+            <button id="fadeOut">Fade Out Text</button>
+
+            <script type="text/javascript">
+
+                // Fading Content
+                $("#fadeOut").click(function() {
+
+                    $("p").fadeOut();
+
+                });
+
+            </script>
+
+        </body>
+</html>

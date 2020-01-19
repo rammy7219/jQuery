@@ -1,0 +1,49 @@
+<!doctype html>
+    <html>
+        <head>
+            <title>jQuery</title>
+
+            <meta charset="utf-8" />
+            <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <script type="text/javascript" src="jquery.min.js"></script>
+
+            <style type="text/css">
+            
+                #hiddenText {
+
+                    display: none;
+
+                }
+            
+            </style>
+            
+        </head>
+
+        <body>
+
+            <p id="text">This is some text!</p>
+
+            <button id="toggle">Toggle Text</button>
+
+            <script type="text/javascript">
+
+                // Fading Content
+                $("#toggle").click(function() {
+
+                    if ($("#text").css("display") == "none") {
+
+                       $("#text").fadeIn();
+
+                    } else {
+
+                        $("#text").fadeOut();
+
+                    }
+
+                });
+
+            </script>
+
+        </body>
+</html>
