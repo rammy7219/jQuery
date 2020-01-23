@@ -26,6 +26,11 @@ jQuery Example Scripts
   <li>20-jQuery - Fading Content</li>
   <li>21-jQuery - Fading Content</li>
   <li>22-jQuery - Fading Content</li>
+  <li>23-jQuery - Animating Content</li>
+  <li>24-jQuery - Animating Content</li>
+  <li>25-jQuery - Animating Content</li>
+  <li>26-jQuery - Animating Content</li>
+  <li>27-jQuery - Animating Content</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
 </ul>
