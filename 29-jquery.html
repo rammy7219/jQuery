@@ -1,0 +1,38 @@
+<!doctype html>
+    <html>
+        <head>
+            <title>AJAX</title>
+
+            <meta charset="utf-8" />
+            <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <script type="text/javascript" src="jquery.min.js"></script>
+
+            
+            
+        </head>
+
+        <body>
+
+            <div id="circle"></div>
+
+            <script type="text/javascript">
+
+                // AJAX
+                $.ajax("info.txt")
+                    .done(function(data) {
+
+                    alert(data);
+
+                    })
+                    .fail(function() {
+
+                    alert("could not get data");
+
+                    });
+                
+
+            </script>
+
+        </body>
+</html>
