@@ -31,6 +31,10 @@ jQuery Example Scripts
   <li>25-jQuery - Animating Content</li>
   <li>26-jQuery - Animating Content</li>
   <li>27-jQuery - Animating Content</li>
+  <li>28-jQuery - AJAX</li>
+  <li>29-jQuery - AJAX</li>
+  <li>30-jQuery - AJAX</li>
+  <li>info.txt - AJAX</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
 </ul>
