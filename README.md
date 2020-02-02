@@ -34,6 +34,11 @@ jQuery Example Scripts
   <li>28-jQuery - AJAX</li>
   <li>29-jQuery - AJAX</li>
   <li>30-jQuery - AJAX</li>
+  <li>31-jQuery - Regular Expressions</li>
+  <li>32-jQuery - Regular Expressions</li>
+  <li>33-jQuery - Regular Expressions</li>
+  <li>34-jQuery - Regular Expressions</li>
+  <li>35-jQuery - Regular Expressions</li>
   <li>info.txt - AJAX</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
