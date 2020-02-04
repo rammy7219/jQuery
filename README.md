@@ -47,6 +47,7 @@ jQuery Example Scripts
   <li>41-jQuery - Form Validation</li>
   <li>42-jQuery - Form Validation</li>
   <li>43-jQuery - Form Validation</li>
+  <li>44-jQuery - jQuery UI</li>
   <li>info.txt - AJAX</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
