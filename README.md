@@ -39,6 +39,14 @@ jQuery Example Scripts
   <li>33-jQuery - Regular Expressions</li>
   <li>34-jQuery - Regular Expressions</li>
   <li>35-jQuery - Regular Expressions</li>
+  <li>36-jQuery - Form Validation</li>
+  <li>37-jQuery - Form Validation</li>
+  <li>38-jQuery - Form Validation</li>
+  <li>39-jQuery - Form Validation</li>
+  <li>40-jQuery - Form Validation</li>
+  <li>41-jQuery - Form Validation</li>
+  <li>42-jQuery - Form Validation</li>
+  <li>43-jQuery - Form Validation</li>
   <li>info.txt - AJAX</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
