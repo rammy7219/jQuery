@@ -48,6 +48,14 @@ jQuery Example Scripts
   <li>42-jQuery - Form Validation</li>
   <li>43-jQuery - Form Validation</li>
   <li>44-jQuery - jQuery UI Draggable</li>
+  <li>45-jQuery - jQuery UI Draggable Vertically</li>
+  <li>46-jQuery - jQuery UI Draggable Horizontal</li>
+  <li>47-jQuery - jQuery UI Draggable Contained</li>
+  <li>48-jQuery - jQuery UI Resizable</li>
+  <li>49-jQuery - jQuery UI Snap To grid</li>
+  <li>50-jQuery - jQuery UI Also Resize</li>
+  <li>51-jQuery - jQuery UI Also Resize With Event</li>
+  <li>52-jQuery - jQuery UI Also Resize With Event</li>
   <li>info.txt - AJAX</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
