@@ -60,6 +60,7 @@ jQuery Example Scripts
   <li>54-jQuery - jQuery UI Droppables</li>
   <li>55-jQuery - jQuery UI Accordion/li>
   <li>56-jQuery - jQuery UI Sortables</li>
+  <li>57-jQuery - jQuery Code Player</li>
   <li>info.txt - AJAX</li>
   <li>jquery.min.js</li>
   <li>template - HTML Template File</li>
